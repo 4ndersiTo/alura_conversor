@@ -2,7 +2,7 @@ Formación Java Orientado a Objetos | Conversor de Moneda
 
 <h1 align="center">Conversor de Moneda ☕</h1>
 
-![Challenge Oracle Next Education + Alura Banner]()
+![Challenge Oracle Next Education + Alura Banner](https://raw.githubusercontent.com/4ndersiTo/alura_conversor/master/src/img_readme/portada_alura.jpg)
 
 Se desarrolló un sistema, que recibe un monto, y este será convertido y será mostrado en consola de acuerdo a la opción que se seleccionó, por ejemplo de DOLARES a SOLES peruanos.
 
@@ -31,18 +31,18 @@ Se usó la API de Exchange Rates Data API, para obtener las tasas de conversión
 
 **Funcionamiento 👁️:**
    - Sistema solicita una opción a eligir:
-	()
+	(https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso1.PNG?raw=true)
 
    - Luego solicitará un monto:
-	()
+	(https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso2.PNG?raw=true)
 	
    - Mostrará el valor convertido:
-    ()   
+    (https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso3.PNG?raw=true)   
    - Se tiene la posibilidad de ver el historial de conversiones:
-    ()
+    (https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso4.PNG?raw=true)
 	
    - Se puede cerrar el sistema
-    ()
+    (https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso5.PNG?raw=true)
 
 
 
