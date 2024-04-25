@@ -31,18 +31,23 @@ Se usó la API de Exchange Rates Data API, para obtener las tasas de conversión
 
 **Funcionamiento 👁️:**
    - Sistema solicita una opción a eligir:
+     
 ![Paso 1](https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso1.PNG?raw=true)
 
    - Luego solicitará un monto:
+     
 ![Paso 2](https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso2.PNG?raw=true)
 	
    - Mostrará el valor convertido:
+     
 ![Paso 3](https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso3.PNG?raw=true)
      
    - Se tiene la posibilidad de ver el historial de conversiones:
+     
 ![Paso 4](https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso4.PNG?raw=true)
 	
    - Se puede cerrar el sistema
+     
 ![Paso 5](https://github.com/4ndersiTo/alura_conversor/blob/master/src/img_readme/paso5.PNG?raw=true)
 
 
